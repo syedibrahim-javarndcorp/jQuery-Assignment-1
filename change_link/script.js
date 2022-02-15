@@ -1,1 +1,1 @@
-$("a").attr("href", "https://www.yahoo.com")
+$("#google").attr("href", "https://www.yahoo.com")
